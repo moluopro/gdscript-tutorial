@@ -166,7 +166,7 @@ export default defineConfig({
               collapsed: true,
               link: '/10.object-oriented-intro/',
               items: [
-                { text: '类', link: '/10.object-oriented-intro/10.1.class' },
+                { text: '类', link: '/10.object-oriented-intro/10.1.class/' },
                 { text: '对象', link: '/10.object-oriented-intro/10.2.object' },
                 { text: '静态成员', link: '/10.object-oriented-intro/10.3.static-members' },
                 { text: '继承', link: '/10.object-oriented-intro/10.4.inheritance' },
